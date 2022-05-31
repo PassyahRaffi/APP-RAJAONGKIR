@@ -1,0 +1,18 @@
+RAJA ONGKIR TEST
+
+https://rajaongkir.com/dokumentasi/starter
+
+
+
+get list provinsi https://api.rajaongkir.com/starter/province
+headers key 5c13e972e89f2386e7ef9b4bf5eed6d1
+
+get list city https://api.rajaongkir.com/starter/city
+headers key 5c13e972e89f2386e7ef9b4bf5eed6d1
+
+post list cost https://api.rajaongkir.com/starter/cost
+headers key 5c13e972e89f2386e7ef9b4bf5eed6d1
+
+example pengiriman
+dari bandung barat id=24
+ke sukabumi id=431
